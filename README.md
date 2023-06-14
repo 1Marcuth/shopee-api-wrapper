@@ -1,5 +1,11 @@
 # Shopee API Wrapper - Not official
 
+## Install
+
+```
+pip install shopee-api-wrapper
+```
+
 ## Quickstart
 
 ## Fetch product
